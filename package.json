@@ -1,0 +1,23 @@
+{
+  "name": "mine-clearance",
+  "author": "wokeyi",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "server-renderer dev",
+    "build": "server-renderer build",
+    "start": "server-renderer start"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.15",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "server-renderer": "^0.7.11-alpha"
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.9.2",
+    "@types/classnames": "^2.2.10",
+    "@types/lodash": "^4.14.149",
+    "@types/react": "^16.9.17"
+  }
+}
